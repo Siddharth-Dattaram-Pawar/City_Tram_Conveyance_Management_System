@@ -1,10 +1,14 @@
 **Title : City Tram Conveyance Management System**
 
 **Group Members:**
-Sriram Raju Venkatesh,
-Siddharth Pawar,
-Sanal Pillai,
-Ramy Solanki,
+Sriram Raju Venkatesh
+
+Siddharth Pawar
+
+Sanal Pillai
+
+Ramy Solanki
+
 Rishabh Patel
 
 **Project Description**
