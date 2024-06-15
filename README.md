@@ -1,6 +1,3 @@
-# DMDD_Project
-This repository includes the Project files related to **"Database Management and Database Design".**
-
 **Title : City Tram Conveyance Management System**
 
 **Project Description**
