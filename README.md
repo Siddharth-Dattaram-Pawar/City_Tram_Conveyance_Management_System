@@ -1,6 +1,7 @@
 **Title : City Tram Conveyance Management System**
 
 **Group Members:**
+
 Sriram Raju Venkatesh
 
 Siddharth Pawar
@@ -10,6 +11,7 @@ Sanal Pillai
 Ramy Solanki
 
 Rishabh Patel
+
 
 **Project Description**
 1. Designed a structured database schema for 13 entities using ER Studio anticipating the analytical and BI requirements 
