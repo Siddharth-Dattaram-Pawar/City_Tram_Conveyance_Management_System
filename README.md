@@ -1,6 +1,6 @@
-**Title : City Tram Conveyance Management System**
+# **Title : City Tram Conveyance Management System**
 
-**Group Members:**
+## **Group Members:**
 
 1. Sriram Raju Venkatesh
 
@@ -9,11 +9,11 @@
 3. Sanal Pillai
 
 
-**Project Description**
+## **Project Description**
 1. Structured a database model for 13 entities using ER Studio and ensured enhanced security using AES 256 encryption
 2. Implemented analysis using efficient SQL queries while executing data operations such as Joins, Views, Stored Procedures, Triggers, Functions, Indexes etc. & performed visualization of real-time data using interactive BI reports
 
-**Functional Skills and Tools utilized** :
+## **Functional Skills and Tools utilized** :
 
 Languages : SQL
 
